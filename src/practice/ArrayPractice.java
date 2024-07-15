@@ -8,8 +8,8 @@ public class ArrayPractice {
 		for (int i = 0; i < (a.length); i++) {
 			System.out.println(a[i]);
 		}
-		System.out.println("HI);
-
+		System.out.println("HI");
+System.out.println("Hello");
 		int b[][] = { { 2, 8, 10 }, { 5, 9, 10 }, { 1, 8, 4 } };
 		System.out.println(b.length);
 		for (int j = 0; j < (b.length); j++) {
